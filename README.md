@@ -1,6 +1,9 @@
 # PapaLegba
 Exploitation dev library written in go
 ___
+Install:
+go get github.com/TerminalJockey/PapaLegba
+___
 
 Basic exploit dev functions, wrapper for golang's standard libraries to abstract away some of the more cumbersome functions and reduce exploit code length
 
